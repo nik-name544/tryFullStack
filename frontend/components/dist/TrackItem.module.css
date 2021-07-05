@@ -1,0 +1,61 @@
+.track {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.artist {
+  font-size: 12px;
+  color: gray;
+  margin-top: auto;
+}
+
+.delBtn {
+  margin-left: auto;
+}
+
+.itemImg {
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+}
+
+.trackName {
+  margin-bottom: auto;
+}
+
+.stepWrapper {
+  margin: 70px;
+  height: 270px;
+}
+
+.stepWrapper__item {
+  width: 600px;
+}
+
+.fileUploadInput {
+  display: none;
+}
+
+.player {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  background-color: lightblue;
+}
+
+.trackProgress {
+  display: flex;
+}
+
+.trackProgressTime {
+  font-size: 12px;
+  color: #000;
+}

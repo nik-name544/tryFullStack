@@ -1,0 +1,33 @@
+.tracks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trackPageImg {
+    width: 200px;
+    height: 200px;
+}
+
+.pageWrapper {
+    margin: 20px 0;
+}
+
+.trackPageInfo {
+    margin-left: 32px;
+}
+
+.stepContent {
+    padding: 20px;
+}
+
+.stepContent__item {
+    margin-top: 10px;
+}
+
+.comment {
+    margin-bottom: 8px;
+    background-color: lavender;
+    border-radius: 5px;
+    padding: 8px;
+}
